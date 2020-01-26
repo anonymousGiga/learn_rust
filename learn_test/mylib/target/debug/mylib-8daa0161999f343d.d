@@ -1,0 +1,1 @@
+/home/andy/source/rust/learn_rust/learn_test/mylib/target/debug/mylib-8daa0161999f343d: /home/andy/source/rust/learn_rust/learn_test/mylib/src/animal.rs /home/andy/source/rust/learn_rust/learn_test/mylib/src/lib.rs

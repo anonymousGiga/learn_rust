@@ -1,0 +1,12 @@
+crate的发布与撤回（此部分没有实际操作过，只讲步骤）
+（1）创建Crates.io账号：通过Github账户注册，并通过cargo login ****** 来登陆
+（2）发布前需要在Cargo.toml中增加描述：
+[package]
+name = "package_name"
+version = "0.1.0"
+license = "MIT"  #Linux 基金会 的 Software Package Data Exchange (SPDX) 列出了可以使用的标识符
+authors = ["linghuyichong"]
+description = "some thing descript the package"
+运行cargo publish来发布。
+（3）撤回指定版本
+cargo yank --vers 0.1.0 
