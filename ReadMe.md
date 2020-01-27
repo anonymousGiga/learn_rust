@@ -1,1 +1,1 @@
-This is source code for learn rust video
+Rust编程视频教程对应源码
