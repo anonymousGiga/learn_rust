@@ -15,3 +15,8 @@
 
 Ｂ站地址：https://www.bilibili.com/video/av81202308/
 
+网易云课堂地址：https://study.163.com/course/introduction/1209784858.htm
+
+# 课件地址
+相关课件已发布到B站/CSDN（令狐壹冲）/头条号（令狐一冲a）/微信公众号/简书（令狐一冲）
+
